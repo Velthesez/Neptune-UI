@@ -1,0 +1,194 @@
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\keycheck.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\keycheck.baml
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\splash.g.cs
+c:\users\robyu\onedrive\documentos\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\splash.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\splash.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\keycheck.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\splash.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\keycheck.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\robyu\OneDrive\Área de Trabalho\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\splash.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\keycheck.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\splash.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\keycheck.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\splash.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\keycheck.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\splash.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\keycheck.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Administrator\Downloads\Neptune\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\LightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\splash.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\keycheck.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\App.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\splash.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\keycheck.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune23\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.csproj.AssemblyReference.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\DarkTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\LightTheme.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\ColourfulDarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\ColourfulLightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\DarkTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\theme\LightTheme.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\keycheck.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\Window2.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\App.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\splash.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\keycheck.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\Window2.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\settings.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\settings.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\about.g.cs
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\about.baml
+C:\Users\Thela\OneDrive\Desktop\Neptune3\WpfApplication1\obj\Debug\splash.g.cs

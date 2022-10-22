@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApplication1.about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="about" Height="319" Width="640" MinWidth="640" MaxWidth="640" MinHeight="319" MaxHeight="319" WindowStyle="None" Topmost="True" Background="Black" Foreground="White" Style="{DynamicResource CustomWindowStyle}" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Label Content="About Us" Height="52" Margin="-10,50,460,0" FontSize="24" FontWeight="Bold" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Stretch"/>
+        <Label Content="This Project was created by someone looking for a career in Reverse Engineering including&#xA;Software Development and deemed this would be a interesting start.&#xA;&#xA;Welcome to Neptune, i genuinely hope you continue to enjoy what we develop" Height="94" Margin="0,146,0,0" FontSize="14" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Stretch"/>
+        <Button x:Name="Website1" Content="Neptune" Margin="302,29,0,0" Foreground="Black" BorderBrush="White" Background="Black" Click="Website1_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Height="47" Width="155"/>
+        <Button x:Name="Website" Content="Discord" Margin="462,29,0,0" Foreground="Black" BorderBrush="White" Background="Black" Click="Website_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Height="47"/>
+    </Grid>
+</Window>
+    
+    
